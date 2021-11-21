@@ -1,0 +1,23 @@
+{
+  "person": [
+    {
+      "full_name": "Joe Doe",
+      "job_title": "CEO",
+      "profile_url":"profile_url1",
+      "location": "Italy",
+      "person_url": 1,
+      "email": "mail@domain.com",
+      "phone_number": "+1-354-489-4804"
+    },
+    {
+      "full_name": "Alex Pershin",
+      "job_title": "Junior",
+      "profile_url":"profile_url",
+      "location": "Ukraine",
+      "person_url": 2,
+      "email": "bonanzascience@gmail.com",
+      "phone_number": "+380-99-466-32-74"
+    }
+
+  ]
+}

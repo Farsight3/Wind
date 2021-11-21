@@ -1,0 +1,39 @@
+{
+   "company": [
+     {
+       "name": "Apple",
+       "company_url": "https://www.linkedin.com/company/apple/",
+       "location": " Cupertino,USA",
+       "revenue" : "$83000M"
+     },
+     {
+       "name": "SpaceX",
+       "company_url": "https://www.linkedin.com/company/spacex/",
+       "location": "Hawthorne",
+       "revenue" : "$2000M"
+     },
+     {
+       "name": "Tesla",
+       "company_url": "https://www.linkedin.com/company/tesla-motors/",
+       "location": "Palo Alto, USA",
+       "revenue" : "$34000M"
+     },
+     {
+       "name": "Twitter",
+       "company_url": "https://www.linkedin.com/company/twitter/",
+       "location": "San Francisco,USA",
+       "revenue" : "$3000M"
+     },
+     {
+       "name": "Gazprom",
+       "company_url": "https://www.linkedin.com/company/gazprom/",
+       "location": "Moskva",
+       "revenue" : "$12000M"
+     }
+   ]
+
+
+
+
+
+}
